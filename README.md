@@ -19,9 +19,10 @@
     <a href="https://twitter.com/intent/tweet?text=Try this CS:GO AutoExec:&url=https%3A%2F%2Fgithub.com%2FArmynC%2FArminC-AutoExec">
     <img src="https://img.shields.io/twitter/url/https/github.com/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=twitter"
          alt="GitHub tweet">
-</p>
-
-> Kusetus status projectiin:).
+</p> 
+```bash
+ Kusetus status projectiin:).
+```
 
 | Nimet |
 | ------------ | 
