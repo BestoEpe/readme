@@ -5,12 +5,21 @@
 > Meidän projecti
 ```
 
-# React on lambda
-![GitHub package.json version](https://img.shields.io/github/package-json/v/sultan99/react-on-lambda.svg)
-[![Build Status](https://travis-ci.org/sultan99/react-on-lambda.svg?branch=master)](https://travis-ci.org/sultan99/react-on-lambda)
-[![Coverage Status](https://coveralls.io/repos/github/sultan99/react-on-lambda/badge.svg)](https://coveralls.io/github/sultan99/react-on-lambda)
-[![gzip size](http://img.badgesize.io/https://unpkg.com/react-on-lambda@0.6.1/dist/react-on-lambda.min.js?compression=gzip)](https://unpkg.com/react-on-lambda@0.6.1/dist/react-on-lambda.min.js)
-[![GitHub license](https://img.shields.io/github/license/sultan99/react-on-lambda.svg)](https://github.com/sultan99/react-on-lambda/blob/master/LICENSE)
+# Rojecti Status
+<p align="center">
+    <a href="https://github.com/ArmynC/ArminC-AutoExec/commits/master">
+    <img src="https://img.shields.io/github/last-commit/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
+         alt="GitHub last commit">
+    <a href="https://github.com/ArmynC/ArminC-AutoExec/issues">
+    <img src="https://img.shields.io/github/issues-raw/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
+         alt="GitHub issues">
+    <a href="https://github.com/ArmynC/ArminC-AutoExec/pulls">
+    <img src="https://img.shields.io/github/issues-pr-raw/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
+         alt="GitHub pull requests">
+    <a href="https://twitter.com/intent/tweet?text=Try this CS:GO AutoExec:&url=https%3A%2F%2Fgithub.com%2FArmynC%2FArminC-AutoExec">
+    <img src="https://img.shields.io/twitter/url/https/github.com/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=twitter"
+         alt="GitHub tweet">
+</p>
 
 > Kusetus status projectiin:).
 
