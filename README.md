@@ -1,6 +1,10 @@
 
 ## Rojecti
 
+```bash
+> Meidän projecti
+```
+
 # React on lambda
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/sultan99/react-on-lambda.svg)
 [![Build Status](https://travis-ci.org/sultan99/react-on-lambda.svg?branch=master)](https://travis-ci.org/sultan99/react-on-lambda)
@@ -10,9 +14,6 @@
 
 > Kusetus status projectiin:).
 
-```bash
-> Meidän projecti
-```
 | Nimet |
 | ------------ | 
 | Epe |
