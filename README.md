@@ -20,9 +20,9 @@
     <img src="https://img.shields.io/twitter/url/https/github.com/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=twitter"
          alt="GitHub tweet">
 </p> 
-```bash
- Kusetus status projectiin:).
-```
+        </a>
+
+  > Kusetus status projectiin:).
 
 | Nimet |
 | ------------ | 
