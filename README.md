@@ -32,9 +32,5 @@
 |                            | 🔰 Valmis  |
 | -------------------------- | :----------------: |
 | ReadME teko         |         ✔️         |
-        
- ## ‎‍💻 Code Contributors
-
-<img src="https://opencollective.com/fiber/contributors.svg?width=890&button=false" alt="Code Contributors" style="max-width:100%;">
 
 
