@@ -2,7 +2,7 @@
 ## Rojecti
 
 ```bash
-Meidän Projecti
+> Meidän projecti
 ```
 | Nimet |
 | ------------ | 
