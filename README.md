@@ -29,4 +29,11 @@
 | ReadME teko         |         ✔️         |
 | Photon hytskä         |         ✔️         |
 
+## Rojecti
+![nimetön](https://user-images.githubusercontent.com/91182619/134491637-e59c6b3c-52c8-4762-a786-f8fdb0d743d7.jpg)
+```bash
+> Hinnat
+```
+> Hinta: 15.90$ Postitus: 2.50$ postimerkki: 0.40$
+
 
