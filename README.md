@@ -34,6 +34,9 @@
 ```bash
 > Hinnat
 
+> Hinta: 15.90$ Postitus: 2.50$ postimerkki: 0.40$
+
+
 ```JavaScript
 int led1 = D0;
 int led2 = D2;
@@ -65,9 +68,4 @@ void loop() {
   digitalWrite(led3, LOW);
   
 }
-
 ```
-```
-> Hinta: 15.90$ Postitus: 2.50$ postimerkki: 0.40$
-
-
