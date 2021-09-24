@@ -33,6 +33,40 @@
 ![nimetön](https://user-images.githubusercontent.com/91182619/134491637-e59c6b3c-52c8-4762-a786-f8fdb0d743d7.jpg)
 ```bash
 > Hinnat
+
+```JavaScript
+int led1 = D0;
+int led2 = D2;
+int led3 = D1;
+
+
+
+void setup() {
+
+
+  pinMode(led1, OUTPUT);
+  pinMode(led2, OUTPUT);
+  pinMode(led3, OUTPUT);
+
+}
+
+void loop() {
+  
+  digitalWrite(led1, HIGH);
+  delay(1000);
+  digitalWrite(led1, LOW);
+  delay(2000);
+  digitalWrite(led2, HIGH);
+   delay(3000);
+  digitalWrite(led2, LOW);
+    delay(4000);
+  digitalWrite(led3, HIGH);
+  delay(5000);
+  digitalWrite(led3, LOW);
+  
+}
+
+```
 ```
 > Hinta: 15.90$ Postitus: 2.50$ postimerkki: 0.40$
 
