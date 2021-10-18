@@ -28,6 +28,10 @@
 | -------------------------- | :----------------: |
 | ReadME teko         |         ✔️         |
 | Photon hytskä         |         ✔️         |
+| Photon Koodaus         |         ✔️         |
+| Photon Webhook        |         ✔️         |
+| Photon thingspeak        |         ✔️         |
+| Photon JS app         |         ✔️         |
 
 ## Rojecti
 ![nimetön](https://user-images.githubusercontent.com/91182619/134491637-e59c6b3c-52c8-4762-a786-f8fdb0d743d7.jpg)
@@ -70,3 +74,9 @@ void loop() {
 }
 ```
 ![WIN_20210924_12_59_00_Pro](https://user-images.githubusercontent.com/91182619/134656674-7e484329-5ca4-4bd7-89ba-4b58093d96dc.jpg)
+
+
+![Slide2](https://user-images.githubusercontent.com/91182619/137681521-de3d4bb4-1e3e-4da2-8262-6c7473d889d1.jpg)
+
+
+
