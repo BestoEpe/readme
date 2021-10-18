@@ -19,7 +19,7 @@
 
   > Kusetus status projectiin:).
 
-| Nimet |
+| Tekijät |
 | ------------ | 
 | 👨‍💻 Epe |
 | 👨‍💻 Ipe |
